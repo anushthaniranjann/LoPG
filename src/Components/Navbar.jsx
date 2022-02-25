@@ -12,7 +12,7 @@ const Navbar = () => {
     <>
       <div className={style.nav}>
         <Link to="/" style={{ width: "15%", paddingTop: "10px", paddingLeft: "5%" }}>
-          <img src="./NavImages/OYO_Logo.png" alt="" height="35px" width="90px" />
+          <img src="./NavImages/lopg_logo.png" alt="" height="35px" width="90px" />
         </Link>
 
         <Link

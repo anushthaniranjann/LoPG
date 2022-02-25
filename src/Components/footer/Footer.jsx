@@ -6,19 +6,19 @@ function Footer() {
           <div className="footer-sec1">
             <div>
               <img src="/Images/UnionWhite.png" alt="UnionWhite" />
-              <p>World's leading chain of hotels and homes</p>
+              <p>Working to create biggest chain of PG's and homes</p>
             </div>
             <div>
               <p>Join our network and grow your business!</p>
               <button>
                 <img src="/Images/property.png" alt="property" />
-                List your property
+                List your PG
               </button>
             </div>
           </div>
           <div className="footer-sec2">
             <div>
-              <p>Download OYO app for excitng offers.</p>
+              <p>Download LoPG app for excitng offers.</p>
               <br />
               <img src="/Images/appstore.png" alt="applestore" />
   

@@ -98,7 +98,7 @@ function WorldwideMarketing() {
           </div>
         </div>
         <div className="world-wide-right-section">
-          <p>World’s leading chain of hotels and homes</p>
+          <p>LoPG : Find your rest</p>
           <p>More Destibations More Ease. More Affordable.</p>
           <div>
             <p>
